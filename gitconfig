@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = fadelellaherrami@gmail.com
+	name = Fadel ellah ERRAMI
